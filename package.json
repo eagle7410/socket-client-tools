@@ -1,0 +1,43 @@
+{
+  "name": "socket-client-tools",
+  "version": "1.0.0",
+  "description": "Tools for socket io client",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagle7410/socket-client-tools.git"
+  },
+  "keywords": [
+    "socket",
+    "io",
+    "client",
+    "tools"
+  ],
+  "author": "Igor Stcherbina <verycooleagle@gmail.com> (http://github.com/eagle7410)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eagle7410/socket-client-tools/issues"
+  },
+  "dependencies": {
+    "@material-ui/core": "1.5.1",
+    "@material-ui/icons": "2.0.3",
+    "history": "4.7.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-json-view": "1.19.1",
+    "react-redux": "5.0.7",
+    "react-router-dom": "4.1.1",
+    "react-router-redux": "4.0.8",
+    "react-scripts": "1.1.4",
+    "redux": "4.0.0",
+    "redux-devtools-extension": "2.13.5",
+    "socket.io": "2.1.1"
+  },
+  "homepage": "./"
+}
