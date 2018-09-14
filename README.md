@@ -3,7 +3,10 @@ Tools for socket io client
 
 ## People
 Developer [Igor Stcherbina](https://drive.google.com/file/d/1tm6j8uGoeEbaVDYKlsQlkkxAD5WMXp3-/view?usp=sharing)
-
+  
+Example_view  
+![example_view screenshot](https://raw.githubusercontent.com/eagle7410/socket-client-tools/master/for_docs/example.png)
+  
 ## License
 
 MIT License
